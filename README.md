@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on BAT
 - 📫 How to reach me :205189859@qq.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: xiaobai
+- ⚡ Fun fact: code,speech,commerce,communication,sport
 
 <!---
 BBZbbz123/BBZbbz123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
